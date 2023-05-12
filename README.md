@@ -11,6 +11,7 @@
 A simple text editor that can also be installed to be used offline.
 
 ## Demonstration
+![jate-screenshot](https://github.com/rismahjo/textEditPWA/assets/113956697/910c8eae-fe1a-4f69-9e95-c63b0909c01b)
 
 ## Installation
 
